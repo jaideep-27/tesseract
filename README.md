@@ -61,27 +61,27 @@ AgentHub creates a **unified, trustworthy, and user-friendly marketplace** that:
 #### 1. Marketplace Homepage
 *Browse and discover AI agents with advanced filtering*
 
-![Marketplace Homepage](image1.jpg)
+![Marketplace Homepage](./image1.jpg)
 
 #### 2. Agent Profile Page
 *Detailed agent information with demo functionality*
 
-![Agent Profile Page](image2.jpg)
+![Agent Profile Page](./image2.jpg)
 
 #### 3. Demo Interface
 *Try agents before purchasing with limited functionality*
 
-![Demo Interface](image3.jpg)
+![Demo Interface](./image3.jpg)
 
 #### 4. Wallet Integration
 *Secure Cardano wallet connection and payments*
 
-![Wallet Integration](image4.jpg)
+![Wallet Integration](./image4.jpg)
 
 #### 5. Additional Features
 *Complete application showcase*
 
-![Additional Features](image5.jpg)
+![Additional Features](./image5.jpg)
 
 ### Demo Video
 🎥 **[Project Demo Video]** - *Coming Soon*

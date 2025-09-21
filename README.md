@@ -421,7 +421,7 @@ This validates:
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/leader.png"/>
+<img src="https://img.icons8.com/color/96/000000/administrator-male.png"/>
 
 **🚀 Jaideep Amrabad**
 *Team Lead & Full-Stack*

@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "esnext",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "resolveJsonModule": true,
+    "declaration": true,
+    "sourceMap": true,
+    "types": [
+      "node"
+    ],
+  "lib": ["es2022"],
+  "allowJs": true,
+  // Emit build outputs so dist/ stays updated
+  // "noEmit": true, // removed to allow building
+    "incremental": true,
+    "isolatedModules": true
+  },
+  "include": [
+    "agent.ts",
+    "src/**/*.ts",
+    
+  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

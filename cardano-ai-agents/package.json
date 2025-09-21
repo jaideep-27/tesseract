@@ -1,0 +1,44 @@
+{
+  "name": "cardano-ai-agents",
+  "version": "1.0.0",
+  "description": "AI agent to draft Cardano CIPs and interact with Cardano Preprod via Blockfrost + Lucid + Gemini.",
+  "type": "module",
+  "main": "dist/agent.js",
+  "types": "dist/agent.d.ts",
+  "scripts": {
+    "build": "tsc -p .",
+    "dev": "nodemon --watch agent.ts --watch src --ext ts --exec node --loader ts-node/esm agent.ts",
+    "dev:register": "node --loader ts-node/esm agent.ts",
+    "start": "node dist/agent.js",
+    "quick": "pnpm run build && pnpm start",
+    "run:ts": "node --loader ts-node/esm agent.ts",
+    "typecheck": "tsc -p . --noEmit",
+    "demo:cip": "ts-node src/tools/geminiTool.ts demo",
+    "lint": "echo 'Add linter later'",
+    "test": "echo 'No tests yet'"
+  },
+  "keywords": [
+    "cardano",
+    "cip",
+    "gemini",
+    "blockfrost",
+    "lucid",
+    "agent"
+  ],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@10.17.0",
+  "dependencies": {
+    "@blockfrost/blockfrost-js": "^6.0.0",
+    "@google/generative-ai": "^0.24.1",
+  "axios": "^1.12.2",
+  "dotenv": "^17.2.2",
+  "lucid-cardano": "^0.10.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

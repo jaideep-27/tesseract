@@ -4,6 +4,8 @@
 
 A decentralized marketplace for AI agents built on Cardano blockchain, enabling users to discover, demo, and purchase AI agents with secure cryptocurrency payments.
 
+![AgentHub Marketplace](https://raw.githubusercontent.com/jaideep-27/tesseract/main/image1.jpg)
+
 ## 🚀 Project Description
 
 AgentHub is a revolutionary platform that bridges the gap between AI developers and users by creating a decentralized marketplace where:
@@ -54,40 +56,7 @@ AgentHub creates a **unified, trustworthy, and user-friendly marketplace** that:
 - **Git** - Version control
 - **VS Code** - Development environment
 
-## 📸 Project Demo
-
-### Screenshots
-
-#### 1. Marketplace Homepage
-*Browse and discover AI agents with advanced filtering*
-
-![Marketplace Homepage](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image1.jpg)
-
-#### 2. Agent Profile Page
-*Detailed agent information with demo functionality*
-
-![Agent Profile Page](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image2.jpg)
-
-#### 3. Demo Interface
-*Try agents before purchasing with limited functionality*
-
-![Demo Interface](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image3.jpg)
-
-#### 4. Wallet Integration
-*Secure Cardano wallet connection and payments*
-
-![Wallet Integration](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image4.jpg)
-
-#### 5. Additional Features
-*Complete application showcase*
-
-![Additional Features](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image5.jpg)
-
-### Demo Video
-🎥 **[Project Demo Video]** - *Coming Soon*
-
-### Live Demo
-🌐 **[Live Application]** - *Coming Soon*
+![Agent Profile & Details](https://raw.githubusercontent.com/jaideep-27/tesseract/main/image2.jpg)
 
 ## 📋 Key Features Implemented
 
@@ -104,11 +73,15 @@ AgentHub creates a **unified, trustworthy, and user-friendly marketplace** that:
 - **Demo limits enforcement** to prevent abuse
 - **Purchase prompts** after demo completion
 
+![Demo Interface](https://raw.githubusercontent.com/jaideep-27/tesseract/main/image3.jpg)
+
 ### ✅ Wallet Integration
 - Cardano wallet connection
 - Multi-wallet support (Nami, Eternl, etc.)
 - Wallet balance display
 - Asset viewing capabilities
+
+![Wallet Integration](https://raw.githubusercontent.com/jaideep-27/tesseract/main/image4.jpg)
 
 ### ✅ Backend API
 - RESTful API with FastAPI
@@ -222,6 +195,8 @@ This validates:
 | **Bhanu Prasad** | Blockchain Developer | Cardano integration, wallet connectivity, smart contracts |
 | **Anusha** | Frontend Developer | Component development, styling, user experience |
 | **Shivarama** | DevOps & Testing | Deployment, testing automation, documentation |
+
+![Team TESSERACT - Complete Application](https://raw.githubusercontent.com/jaideep-27/tesseract/main/image5.jpg)
 
 ## 🔮 Future Roadmap
 

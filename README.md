@@ -61,27 +61,27 @@ AgentHub creates a **unified, trustworthy, and user-friendly marketplace** that:
 #### 1. Marketplace Homepage
 *Browse and discover AI agents with advanced filtering*
 
-<img src="image1.jpg" alt="Marketplace Homepage" width="800"/>
+![Marketplace Homepage](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image1.jpg)
 
 #### 2. Agent Profile Page
 *Detailed agent information with demo functionality*
 
-<img src="image2.jpg" alt="Agent Profile Page" width="800"/>
+![Agent Profile Page](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image2.jpg)
 
 #### 3. Demo Interface
 *Try agents before purchasing with limited functionality*
 
-<img src="image3.jpg" alt="Demo Interface" width="800"/>
+![Demo Interface](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image3.jpg)
 
 #### 4. Wallet Integration
 *Secure Cardano wallet connection and payments*
 
-<img src="image4.jpg" alt="Wallet Integration" width="800"/>
+![Wallet Integration](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image4.jpg)
 
 #### 5. Additional Features
 *Complete application showcase*
 
-<img src="image5.jpg" alt="Additional Features" width="800"/>
+![Additional Features](https://raw.githubusercontent.com/jaideep-27/tesseract/feature/agenthub-marketplace-implementation/image5.jpg)
 
 ### Demo Video
 🎥 **[Project Demo Video]** - *Coming Soon*
